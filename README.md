@@ -21,6 +21,6 @@ Halaman Rute
 <br>
 <img width="500" height="300" alt="Screenshot 2025-12-18 210553" src="https://github.com/user-attachments/assets/e142a811-0238-4d14-9f09-8122fd0cab42" />
 <br>
-link website: <a href="gis.jauhartzy.my.id">gis.jauhartzy.my.id</a>
+link website: https://gis.jauhartzy.my.id
 
 
